@@ -227,21 +227,13 @@ For production deployment, consider:
 >
 > **Region**: Geographical region identifier
 
-🤝 **Contributing**
 
-> 1\. Fork the repository
->
-> 2\. Create a feature branch ( git checkout -b feature/new-feature)
->
-> 3\. Commit your changes ( git commit -m 'Add new feature')
->
-> 4\. Push to the branch ( git push origin feature/new-feature)
->
-> 5\. Open a Pull Request
 
-📝 **License**
 
+<<<<<<< HEAD
 This project is open source and available under the [<u>MIT
 License</u>](https://claude.ai/chat/LICENSE).
 
 
+=======
+>>>>>>> a3cd8d76ff691b54239be5bb192a6e494721696f
