@@ -41,7 +41,7 @@ environmental parameters.
 >
 > bash
 >
-> git clone https://github.com/yourusername/fwi-prediction-app.git cd
+> git clone https://github.com/Shreyann05/ML-Project.git cd
 > fwi-prediction-app
 >
 > 2\. **Create** **a** **virtual** **environment** **(recommended):**
@@ -244,22 +244,4 @@ For production deployment, consider:
 This project is open source and available under the [<u>MIT
 License</u>](https://claude.ai/chat/LICENSE).
 
-⚠ **Disclaimer**
 
-This Fire Weather Index prediction system is for educational and
-research purposes. For official fire weather forecasting, please consult
-authorized meteorological services and fire management agencies.
-
-📞 **Support**
-
-If you encounter any issues or have questions, please:
-
-> 1\. Check the error messages in the console
->
-> 2\. Ensure all dependencies are properly installed
->
-> 3\. Verify the model files are in the correct location
->
-> 4\. Open an issue on GitHub for further assistance
-
-**Built** **with** ❤ **using** **Flask** **and** **scikit-learn**
